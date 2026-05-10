@@ -1,2 +1,67 @@
-# General-Registration-Management-System-Project-
-This is a mini GR System created using java connected with MySQL database through JDBC. In this project teacher can add the students in the database that are new admission, teacher can see all the students, can manage the fee system, marks attendance, can promote student from one class to another and there is system of School leaving certificate.
+# School Management System (GR System)
+## Project Description
+This project is a console-based School Management System developed in Java using JDBC and MySQL. The system is designed to manage student records, attendance, fee management, exam results, student promotion, and leaving certificates. It helps reduce manual record keeping and provides a simple way to store and manage school data digitally.
+
+---
+
+# Group Members
+Name         : CMS/ID       : Section 
+Wadhoo Mal   : 023-25-0118  :  D
+Bharat Kumar : 023-25-0025  :  D
+Anand Kumar  : 023-25-0017  :  D
+
+---
+
+# Purpose of the Project
+
+The purpose of this project is to create a basic school management system that can:
+
+- Store student information
+- Manage attendance records
+- Process fee records
+- Upload exam results
+- Promote students to next class
+- Generate reports
+- Issue school leaving certificates
+
+---
+
+# Main Modules
+
+## 1. Student Module
+- Register student
+- View student records
+- Promote students
+
+## 2. Academic Module
+- Mark attendance
+- Upload exam results
+
+## 3. Finance Module
+- Manage fee records
+
+## 4. Admin Module
+- Generate reports
+- Issue leaving certificates
+
+## 5. Database Module
+- MySQL database connection using JDBC
+
+---
+
+# Technologies Used
+
+- Java
+- JDBC
+- MySQL
+- VS Code / IntelliJ IDEA
+- MySQL Workbench
+
+---
+
+# Database Used
+
+Database Name:
+
+```sql
+GRSystem

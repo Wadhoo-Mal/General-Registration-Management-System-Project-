@@ -70,12 +70,12 @@ The purpose of this project is to create a basic school management system that c
 
 
 # Database Used
-Database Name:
 
-```sql
+Database Name:
+-sql
 GRSystem
 
-# Java File link on Github
+# Java File link on Github 
 - https://github.com/Wadhoo-Mal/General-Registration-Management-System-Project-/blob/main/GR_System.java
 
 

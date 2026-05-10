@@ -6,7 +6,7 @@ This project is a console-based School Management System developed in Java using
 
 # Group Members
 
-- Name          :  CMS/ID       :   Section 
+- Name          :  CMS-ID       :   Section 
 - Wadhoo Mal   : 023-25-0118  :  D
 - Bharat Kumar : 023-25-0025  :  D
 - Anand Kumar  : 023-25-0017  :  D

@@ -54,14 +54,28 @@ The purpose of this project is to create a basic school management system that c
 - Java
 - JDBC
 - MySQL
-- VS Code / IntelliJ IDEA
+- VS Code
 - MySQL Workbench
 
 ---
+# How to run the code
+
+- Java version 8 or above (JVM)
+- MySQL database
+- JDBC Connector
+  # For run
+   - javac GR_System.java
+   - java GR_System
+
+
 
 # Database Used
+# Java File link on Github
+
+
 
 Database Name:
 
 ```sql
 GRSystem
+
